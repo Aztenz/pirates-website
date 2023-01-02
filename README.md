@@ -1,2 +1,2 @@
 # pirates-website
-jira
+Website for pirates student activity that offers free courses.
